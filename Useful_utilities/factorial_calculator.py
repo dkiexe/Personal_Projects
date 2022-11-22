@@ -11,6 +11,7 @@ def calculate_factorial_reduce(number):
 def calculate_posible_combinations(number_of_objects, max_sequance_size):
     return int(calculate_factorial_reduce(number_of_objects)/(calculate_factorial_reduce(max_sequance_size)*(calculate_factorial_reduce(number_of_objects-max_sequance_size))))
 
+# random Tests.
 print(calculate_factorial_for_loop(5))
 print(calculate_factorial_reduce(5))
 
