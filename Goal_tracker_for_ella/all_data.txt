@@ -1,0 +1,3 @@
+Format-> (Record ,Date, Day, Time, Goals_Achived, Time_each_goal_took, Total_Break_time, Amount_of_breaks)
+
+(1, '08/02/2022', 'Tuesday', '14:34', 'secure a good day trading stratagy||search for more trading videos||analyze the market', '02:30||01:30||00:15', '00:00', 0)
